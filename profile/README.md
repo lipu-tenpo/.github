@@ -10,6 +10,6 @@ Contribution Guide & FAQ <https://discord.gg/ACpUCmVcNS> - Style Guide <https://
 
 Social medias <https://linktr.ee/liputenpo> - Discord <https://discord.com/invite/XYzZskJuZw> - Email <mailto:lawapiliputenpo@gmail.com> - Mastodon <https://toki.social/@liputenpo> - Reddit <https://www.reddit.com/r/liputenpo/> - Facebook page <https://www.facebook.com/people/Lipu-tenpo/100092461645539/> - Instagram <https://instagram.com/liputenpo> - Twitter <https://x.com/liputenpo>
 
-RSS Feed <https://liputenpo.org/feed>
+RSS Feed <https://liputenpo.org/feed> - sona.pona wiki page <https://sona.pona.la/wiki/lipu_tenpo>
 
 Article Submissions <https://docs.google.com/spreadsheets/d/16D7VKLkwSv5tZC61aP5TwMvBA0vWDc_lgbKf5Z-4kPA/edit#gid=256277326> - Article Trello Board <https://trello.com/b/JDLltPEo/proof-readers> - Wednesday meeting minutes <https://docs.google.com/document/d/1BeVMOXXeOnWBp5AJXVFLcDyvo7QpqSjAHED6HAWJtwg/edit#heading=h.cb7810qf9j2h>
