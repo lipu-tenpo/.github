@@ -13,3 +13,5 @@ Social medias <https://linktr.ee/liputenpo> - Discord <https://discord.com/invit
 RSS Feed <https://liputenpo.org/feed> - sona.pona wiki page <https://sona.pona.la/wiki/lipu_tenpo>
 
 Article Submissions <https://docs.google.com/spreadsheets/d/16D7VKLkwSv5tZC61aP5TwMvBA0vWDc_lgbKf5Z-4kPA/edit#gid=256277326> - Article Trello Board <https://trello.com/b/JDLltPEo/proof-readers> - Wednesday meeting minutes <https://docs.google.com/document/d/1BeVMOXXeOnWBp5AJXVFLcDyvo7QpqSjAHED6HAWJtwg/edit#heading=h.cb7810qf9j2h>
+
+Social Media management information <https://alifeee.notion.site/Social-Media-9fa6ac7c28624a388ab7531713ca58ad> - Print & Post information <https://alifeee.notion.site/Zine-Printing-e90b5ea07a0d446da381245b7e1550f7>
