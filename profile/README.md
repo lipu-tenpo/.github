@@ -10,7 +10,7 @@ Regular community-created magazine written entirely in toki pona!
 
 [Social medias](https://linktr.ee/liputenpo) - [Discord](https://discord.com/invite/XYzZskJuZw) - [Email](mailto:lawapiliputenpo@gmail.com) - [Mastodon](https://toki.social/@liputenpo) - [Reddit](https://www.reddit.com/r/liputenpo/) - [Facebook](https://www.facebook.com/people/Lipu-tenpo/100092461645539/) - [Instagram](https://instagram.com/liputenpo) - [Twitter](https://x.com/liputenpo)
 
-[lipu RSS Feed](https://liputenpo.org/lipu/feed.xml) - [totki RSS feed](https://liputenpo.org/toki/feed.xml) - [sona pona wiki page](https://sona.pona.la/wiki/lipu_tenpo)
+[lipu RSS Feed](https://liputenpo.org/lipu/feed.xml) - [toki RSS feed](https://liputenpo.org/toki/feed.xml) - [sona pona wiki page](https://sona.pona.la/wiki/lipu_tenpo)
 
 [Article Submissions](https://docs.google.com/spreadsheets/d/16D7VKLkwSv5tZC61aP5TwMvBA0vWDc_lgbKf5Z-4kPA/edit) - [Article Submissions RSS Feed](https://zapier.com/engine/rss/14137915/newarticle) - [Article Trello Board](https://trello.com/b/JDLltPEo/proof-readers) - [jo](https://docs.google.com/document/u/0/d/1mmZhtJvGbA-un46dVm6szk5u_UtxiEJw4PDvP5Uw134/) - [Wednesday meeting minutes](https://docs.google.com/document/d/1BeVMOXXeOnWBp5AJXVFLcDyvo7QpqSjAHED6HAWJtwg/edit) - [Website metrics](https://liputenpo.goatcounter.com/)
 
